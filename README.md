@@ -1,2 +1,3 @@
-#Full stack course
-Repository for the web development portfolio website
+# FullStackCourse
+Repository for full stack course for web development portfolio website
+
